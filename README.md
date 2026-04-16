@@ -52,12 +52,6 @@ salary-analysis-project/
 
 ---
 
-## 👨‍💻 Author
-
-Your Name
-
----
-
 ## ⭐ Conclusion
 
 This project demonstrates data analysis skills using Python and helps in extracting meaningful insights from salary datasets.
